@@ -3,7 +3,7 @@
  
  press S to start the program,
  L if we want to scroll down,
- G if we want to send the invitation to the preson.
+ G if we want to send the invitation to the person.
  
  It auto scrolls to the person last contacted.
 
