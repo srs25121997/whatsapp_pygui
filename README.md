@@ -1,7 +1,7 @@
 # whatsapp_pygui
- Presently We can only send messages to 5 people at a moment. So if we have to send messages to many people it becomes tiresome. Especially if we have to send invitation and we have a long contact list.
+ On Whatsapp Presently We can only send messages to 5 people at a moment. So If we have to send messages to many people it becomes tiresome to select contacts. Especially if we have to send an invitation and we have a long contact list.
 
-Broadcast list are of great use but in this case if the number is not saved in the othger persons's phone the message is not delivered to the person.
+Broadcast list are of great use but in this case if the number is not saved in the other persons's phone the message is not delivered to the person.
 
 In this script I have automated the sending message using python to send messages from contact list.
  
@@ -13,3 +13,5 @@ In this script I have automated the sending message using python to send message
  
  PS: Made this automation for a friends wedding and it was very helpful as there were 2000+ contacts.
 
+
+The reason of not using selenium was that whatsapp may detect the automation and cnsider us spam and block us.
